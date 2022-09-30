@@ -1,7 +1,7 @@
 # Lab2
 
 ## Тех.задание
->Лабораторная работа 2: Изучение системы управления версиями Git
+Лабораторная работа 2: Изучение системы управления версиями Git
 Нужно изучить и описать систему управления версиями Git в объёме не
 более пяти страниц, не считая титульника. Формат сдачи следующий: я
 задаю вопросы по основным командам Git, вам нужно дать ответы, опираясь
@@ -20,3 +20,17 @@ e.	LFS
 Почитать:
 https://git-scm.com/book/ru/v1
 https://www.atlassian.com/ru/git
+
+## Ссылки на ветки
+### Вадим
+develop - https://github.com/lipipidronstudy/lab2po/tree/developVadim
+hotfix - https://github.com/lipipidronstudy/lab2po/tree/hotfixVadim
+fitch - https://github.com/lipipidronstudy/lab2po/tree/fitchVadim
+realese - https://github.com/lipipidronstudy/lab2po/tree/realeseVadim
+
+### Климентий
+develop - https://github.com/Klimenntiy/lab2po/tree/meow_develop
+hotfix - https://github.com/Klimenntiy/lab2po/tree/meow_hot_fix
+fitch - https://github.com/Klimenntiy/lab2po/tree/meow_fitc
+realese - https://github.com/Klimenntiy/lab2po/tree/meow_realese
+ветка из 1 пункта - https://github.com/Klimenntiy/lab2po/tree/meow
