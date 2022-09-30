@@ -1,0 +1,3 @@
+[submodule "c-func"]
+	path = c-func
+	url = https://github.com/lipipidronstudy/c-func.git
