@@ -22,6 +22,10 @@
  * [Pro Git](https://git-scm.com/book/ru/v1)
  * [Как использовать Git правильно](https://www.atlassian.com/ru/git)
 
+## GitHubs
+ + [Вадим](https://github.com/lipipidronstudy)
+ + [Климентий](https://github.com/Klimenntiy)
+
 ## Ссылки на ветки
 ### Вадим
  + [develop](https://github.com/lipipidronstudy/lab2po/tree/developVadim)
