@@ -19,8 +19,8 @@
  3.	Также всем студентам обязательно подготовить справочник по основным командам Git с примерами. Уметь кратко ответить на вопросы о предназначении основных команд Git.
 
 Почитать:
-https://git-scm.com/book/ru/v1
-https://www.atlassian.com/ru/git
+ * https://git-scm.com/book/ru/v1
+ * https://www.atlassian.com/ru/git
 
 ## Ссылки на ветки
 ### Вадим
@@ -35,3 +35,13 @@ https://www.atlassian.com/ru/git
  + fitch - https://github.com/Klimenntiy/lab2po/tree/meow_fitc
  + realese - https://github.com/Klimenntiy/lab2po/tree/meow_realese
  + ветка из 1 пункта - https://github.com/Klimenntiy/lab2po/tree/meow
+
+## Ссылки на теги
+### Вадим
+ + v1.1-char  - https://github.com/lipipidronstudy/lab2po/releases/tag/v1.1-char
+ + v1.2-Fbugs - https://github.com/lipipidronstudy/lab2po/releases/tag/v1.2-Fbugs
+
+### Климентий
+ + v1.1-char -  https://github.com/Klimenntiy/lab2po/releases/tag/v1.1-char
+ + v1.2-fix - https://github.com/Klimenntiy/lab2po/releases/tag/v1.2-fix
+
