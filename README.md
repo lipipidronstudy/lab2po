@@ -49,7 +49,7 @@
  + [v1.1-char](https://github.com/Klimenntiy/lab2po/releases/tag/v1.1-char)
  + [v1.2-fix](https://github.com/Klimenntiy/lab2po/releases/tag/v1.2-fix)
 
-##Отчёты
- + [Создарние веток + редактирование README.md]()
+## Отчёты
+ + [1-2 тех.задания]()
  + [Справочник основных комант Git с примерами]()
-
+ + [Описание системы управления Git]()
