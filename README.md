@@ -50,6 +50,6 @@
  + [v1.2-fix](https://github.com/Klimenntiy/lab2po/releases/tag/v1.2-fix)
 
 ## Отчёты
- + [1-2 тех.задания](https://github.com/lipipidronstudy/lab2po/blob/main/M3113_%D0%9A%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B9%D0%92_%D0%90%D0%BD%D0%B8%D1%81%D1%8C%D0%BA%D0%B8%D0%BD%D0%9A_%D0%9B%D0%B0%D0%B12.pdf)
+ + [1-2 тех.задания](https://github.com/lipipidronstudy/lab2po/blob/main/M3113_%D0%9A%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B9%D0%92%D0%92_%D0%90%D0%BD%D0%B8%D1%81%D1%8C%D0%BA%D0%B8%D0%BD%D0%9A%D0%90_%D0%9B%D0%B0%D0%B12.pdf)
  + [Справочник основных комант Git с примерами]()
 
