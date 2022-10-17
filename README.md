@@ -54,3 +54,5 @@
  + [1-2 техюзадания(Климентий)](https://github.com/lipipidronstudy/lab2po/blob/main/%D0%9C3113_%D0%90%D0%BD%D0%B8%D1%81%D1%8C%D0%BA%D0%B8%D0%BD%D0%9A%D0%90_%D0%9B%D0%B0%D0%B12.pdf)
  + [Справочник основных комант Git с примерами](https://github.com/lipipidronstudy/lab2po/blob/main/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%20GIT.pdf)
 
+## Test edit
++ new point
